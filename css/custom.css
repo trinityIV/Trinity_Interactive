@@ -1,0 +1,20 @@
+canvas {
+    background: #fff;
+    display: block;
+    margin: 0 auto;
+ }
+/*canvas image renderer*/
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+ }
+
+/*canvas image renderer*/
+
+.hlico *>img{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    text-align: left;
+ }
